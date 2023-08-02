@@ -1,3 +1,3 @@
 # Transfomerをスクラッチから実装する
 
-!(transformer)[/image/transformer.png]
+![transformer](/image/transformer.png)
